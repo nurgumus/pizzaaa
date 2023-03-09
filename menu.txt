@@ -1,0 +1,13 @@
+* Lutfen Bir Pizza Tabanı Seciniz:
+1: klasik...20$
+2: margarita...18$
+3: turk...22$
+4: sade...15$
+* ve sececeginiz malzeme:
+11: zeytin...3$
+12: mantar...5$
+13: kecipeyniri...6$
+14: meat...10$
+15: sogan...4$
+16: misir...4$
+* Tesekkur ederiz!
